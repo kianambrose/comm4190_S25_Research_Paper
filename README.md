@@ -10,6 +10,6 @@ This project aims to contribute to the growing conversation around AI’s role i
 
 ## Project Files
 
-- [Final Research Paper](./Research-Paper.ipynb)
+- [Final Research Paper](./Research_Paper.ipynb)
 - [Annotated Bibliography](./Bibliography.md)
-- [LLM Prompting for the Experiment](./prompting.ipynb)
+- [LLM Prompting for the Experiment](./Prompting.ipynb)

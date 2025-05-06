@@ -9,3 +9,6 @@ Solberg, Janne. “Privacy in Early Childhood Education and Care: The Management
 
 Walker, Joan M. T., and Benjamin H. Dotger. “Because Wisdom Can’t Be Told: Using Comparison of Simulated Parent–Teacher Conferences to Assess Teacher Candidates’ Readiness for Family-School Partnership.” *Journal of Teacher Education* 63, no. 1 (2012): 62–75.  
   https://doi.org/10.1177/0022487111419300
+
+Zhu, Tiffany, Kexun Zhang, and William Yang Wang. “Embracing AI in Education: Understanding the Surge in Large Language Model Use by Secondary Students.” arXiv, November 27, 2024. 
+  https://doi.org/10.48550/arXiv.2411.18708.

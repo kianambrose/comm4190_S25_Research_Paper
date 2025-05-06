@@ -8,3 +8,8 @@ Through a literature review, I identified recurring issues in parent–teacher c
 This project aims to contribute to the growing conversation around AI’s role in education by considering how LLMs might improve communication, efficiency, and inclusivity in one of the most important school–home interactions. Please explore the links to my final paper, bibliography, and ChatGPT prompts to learn more about my process and findings.
 
 
+## Project Files
+
+- [Final Research Paper](./Research-Paper.ipynb)
+- [Annotated Bibliography](./Bibliography.md)
+- [LLM Prompting for the Experiment](./prompting.ipynb)
